@@ -13,7 +13,7 @@ git clone "url" (adding the repository into native machine)
 //Submit Commands
 git status
 git add .
-git commit -m 
+git commit -m "int"
 git push
 
 git config --global user.name "hemanthkumar094"
